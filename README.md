@@ -40,3 +40,5 @@
 <hr>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=eloy411&theme=tokyonight&hide_border=true&locale=es)](https://git.io/streak-stats)
+
+![eloy411 GitHub stats](https://github-readme-stats.vercel.app/api?username=eloy411&show_icons=true&theme=radical)
