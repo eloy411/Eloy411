@@ -1,4 +1,4 @@
-![GIF](https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif){: width="200" }
+![GIF](https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif){: width="100" }
 # Bienvenido a mi perfil! 👾
 ### En este perfil, encontrarás diferentes repositorios con diferentes tecnologías de entorno WEB, tanto de FrontEnd como de BackEnd.
 
