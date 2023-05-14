@@ -4,7 +4,9 @@
     <h3 align="center">En este perfil, encontrarás diferentes repositorios con diferentes tecnologías de entorno WEB,
         tanto de FrontEnd como de BackEnd.</h3>
 </div>
-
+<br>
+<br>
+<br>
 <div align="" left>
     <h3> FrontEnd - Skills</h3>
     <div>
