@@ -5,8 +5,8 @@
         tanto de FrontEnd como de BackEnd.</h3>
 </div>
 <br>
+<hr>
 <br>
----
 <div align="" left>
     <h3> FrontEnd - Skills</h3>
     <div>
@@ -17,7 +17,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" alt="" width="40" height="40">
     </div>
 </div>
-
+<br>
 <div align="" left>
     <h3> BackEnd - Skills</h3>
     <div>
@@ -28,7 +28,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="" width="40" height="40">
     </div>
 </div>
-
+<br>
 <div align="" left>
     <h3> DataBase - Skills</h3>
     <div>
