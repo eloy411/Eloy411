@@ -1,43 +1,42 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="200" />
-    <h1 align="center">👾 Bienvenido a mi perfil! 👾</h1>
-    <h3 align="center">En este perfil, encontrarás diferentes repositorios con diferentes tecnologías de entorno WEB,
-        tanto de FrontEnd como de BackEnd.</h3>
+    ![GIF](https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif){: width="200" }
+    # Bienvenido a mi perfil! 👾
+    ### En este perfil, encontrarás diferentes repositorios con diferentes tecnologías de entorno WEB,
+    tanto de FrontEnd como de BackEnd.
 </div>
-<br>
-<hr>
-<div align="" left>
-    <h3> FrontEnd - Skills</h3>
+
+<div align="left">
+    ### FrontEnd - Skills
     <div>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="" width="40" height="40">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="" width="40" height="40">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="" width="40" height="40">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="" width="40" height="40">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" alt="" width="40" height="40">
+        ![JavaScript](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg){: width="40" height="40" }
+        ![CSS3](https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg){: width="40" height="40" }
+        ![HTML5](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg){: width="40" height="40" }
+        ![React](https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg){: width="40" height="40" }
+        ![Vue.js](https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg){: width="40" height="40" }
     </div>
 </div>
+
 <br>
-<div align="" left>
-    <h3> BackEnd - Skills</h3>
+
+<div align="left">
+    ### BackEnd - Skills
     <div>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="" width="40" height="40">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" alt="" width="40" height="40">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="" width="40" height="40">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" alt="" width="40" height="40">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="" width="40" height="40">
+        ![Node.js](https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg){: width="40" height="40" }
+        ![Go](https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg){: width="40" height="40" }
+        ![PHP](https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg){: width="40" height="40" }
+        ![Laravel](https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg){: width="40" height="40" }
+        ![Python](https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg){: width="40" height="40" }
     </div>
 </div>
-<br>
-<div align="" left>
-    <h3> DataBase - Skills</h3>
+
+<div align="left">
+    ### DataBase - Skills
     <div>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="" width="40" height="40">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="" width="40" height="40">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="" width="40" height="40">
+        ![MySQL](https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg){: width="40" height="40" }
+        ![MongoDB](https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg){: width="40" height="40" }
+        ![Microsoft SQL Server](https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg){: width="40" height="40" }
     </div>
 </div>
-<br>
-<hr>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=eloy411&theme=tokyonight&hide_border=true&locale=es)](https://git.io/streak-stats)
 
