@@ -6,7 +6,6 @@
 </div>
 <br>
 <hr>
-<br>
 <div align="" left>
     <h3> FrontEnd - Skills</h3>
     <div>
@@ -37,3 +36,5 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="" width="40" height="40">
     </div>
 </div>
+<br>
+<hr>
