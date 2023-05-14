@@ -38,3 +38,5 @@
 </div>
 <br>
 <hr>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=eloy411&theme=tokyonight&hide_border=true&locale=es)](https://git.io/streak-stats)
