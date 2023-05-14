@@ -7,6 +7,8 @@
 <br>
 <br>
 <br>
+
+...
 <div align="" left>
     <h3> FrontEnd - Skills</h3>
     <div>
