@@ -8,30 +8,30 @@
 <div align="" left>
     <h3> FrontEnd - Skills</h3>
     <div>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" alt="">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="" width="40" height="40">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="" width="40" height="40">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="" width="40" height="40">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="" width="40" height="40">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" alt="" width="40" height="40">
     </div>
 </div>
 
 <div align="" left>
     <h3> BackEnd - Skills</h3>
     <div>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" alt="">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" alt="">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="" width="40" height="40">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" alt="" width="40" height="40">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="" width="40" height="40">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" alt="" width="40" height="40">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="" width="40" height="40">
     </div>
 </div>
 
 <div align="" left>
     <h3> DataBase - Skills</h3>
     <div>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="" width="40" height="40">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="" width="40" height="40">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="" width="40" height="40">
     </div>
 </div>
