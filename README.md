@@ -43,4 +43,4 @@
 
 ![eloy411 GitHub stats](https://github-readme-stats.vercel.app/api?username=eloy411&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eloy411&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eloy411&hide_progress=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
